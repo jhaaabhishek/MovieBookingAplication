@@ -1,6 +1,8 @@
 # MovieBookingApplication
 A simple Movie Booking application with basic functionalities for user and admin. User can see the running movies and book its tickets while Admin have the privilege to add any other movie in available theatre.
 
+All code is in src/java
+
 Name of the Aplication:         FreshCinemasBookingApplication
 Status of the Aplication:       Working [Tested on local system server Apache Tomcat 9]
 Home Page on local system:      http://localhost:8080/FreshCinemasBookingApp/FreshCinemasApplicationHome.jsp
