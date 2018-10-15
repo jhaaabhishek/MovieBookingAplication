@@ -8,7 +8,10 @@ Status of the Aplication:       Working [Tested on local system server Apache To
 Home Page on local system:      http://localhost:8080/FreshCinemasBookingApp/FreshCinemasApplicationHome.jsp
 Programming IDE Used:           Eclipse EE  [Build done in Apache Maven]
 Technologies or Languages used: Java, MySql, HTML(Hypertext Markup Language), Jsp(JavaServer Pages), CSS(Cascading Style Sheets), Servlet Programming
-
+Connectors used: mysql-connector-java 8.0.12.jar
+                 javax.servlet-api 3.0.1.jar
+                 
+                 
 Why the languages or technologies given above were used:
 i)MySql: Maintaining and fetching query data from the database.
 ii)Java: Used for designing the backend framework.Passing query to mysql database. Making algorithms based on the data from database.Returning all results to frontend part or to servlet.
